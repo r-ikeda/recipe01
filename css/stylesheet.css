@@ -1,0 +1,98 @@
+body {
+    font-family: "Helvetica Neue", "Arial", "Hiragino Sans", "Meiryo", sans-serif;
+}
+h1 {
+    padding-bottom: 30px;
+    font-size: 1.75rem;
+}
+
+img {
+    width: 50%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.main {
+    padding:  40px 65px 0 65px;
+}
+
+.main h2 {
+    border-bottom: 1px solid #ccc;
+    font-size:  1.25rem;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.main p {
+    margin-bottom: 45px;
+    line-height: 25px;
+}
+
+.main dl {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main dt {
+    width: 85%;
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 0px 10px 0px;
+}
+
+.main dd {
+    width: 15%;
+    text-align: right;
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 0px 10px 0px;
+}
+
+.main h3 {
+    padding-top: 45px;
+    border-bottom: 1px solid #ccc;
+    font-size:  1.25rem;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.main ol {
+    padding-left: 20px;
+}
+
+.main li {
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 0;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.btn a {
+    font-size:  0.85rem ;
+    color: black;
+    text-decoration: none;
+    border: solid 1px black;
+    padding: 20px 65px;
+}
+
+.main2 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.main2 a {
+    font-size: 0.75rem;
+    color: black;
+    padding: 10px;
+}
+
+h4 {
+    text-align: center;
+    padding: 25px 0 20px 0;
+    font-size: 0.75rem;
+}
